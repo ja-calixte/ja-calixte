@@ -27,3 +27,7 @@
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
   </a>
 </div>
+
+## 🤝 Connect with Me  
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/727413915545501706)
