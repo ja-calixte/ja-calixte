@@ -9,6 +9,8 @@
   </a>
 </div>
 
+---
+
 ### ⚙️ Tools & Workflow
 <div align="center">
   <a href="https://www.unrealengine.com/en-US">
@@ -28,6 +30,19 @@
   </a>
 </div>
 
-## 🤝 Connect with Me  
+---
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/727413915545501706)
+### 🤝 Connect with Me 
+
+<div align="center">
+  <a href="https://discord.com/users/727413915545501706">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/jowee.austin/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jw.stn_/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+</div>
+
